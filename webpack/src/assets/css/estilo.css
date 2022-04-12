@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #444;
+    background-image: url(../imgs/palmeiras.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
