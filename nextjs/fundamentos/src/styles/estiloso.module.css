@@ -1,0 +1,8 @@
+.roxo {
+    display: flex;
+    background-color: blueviolet;
+    color: #EEE;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
