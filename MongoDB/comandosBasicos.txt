@@ -1,0 +1,6 @@
+> show dbs
+> show collections
+
+> use hiro
+> db.createCollection('estados')
+> db.estados.drop()
